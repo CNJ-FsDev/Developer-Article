@@ -1,2 +1,3 @@
 # Developer-Documentation
-Brief documentation expressing my knowledge/expertise in Software Development; Problems, Solutions, Disabilities, Projects, Skills &amp; Techniques,  Latest Information,  Predictions and more.
+
+Whilst developer documentation provides comprehensive software information, which is used to utilize an understanding of the product and also 'develop and interact' with the software. I thought it would be best to expand on how outside influences and current events impact todays Software Development. With brief documentation expressing my knowledge/expertise in Software Development;  Software info, Hardware, Problems & Solutions, Hot Topics, Technonlgy, Disabilities, Projects, Skills, Techniques, Latest Information, Predictions, Economics, Inspiration, Quotes and more.
