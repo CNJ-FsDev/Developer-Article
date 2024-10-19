@@ -27,6 +27,19 @@
     <li>Algorithms</li>
     <li>Data Structure</li>
   </ul>
-  
+
+
+  <div  align="center">
   <img height=300 width=1000 src="https://global.discourse-cdn.com/boingboing/original/4X/d/3/7/d370dbf7bfc83ed36f783f08a598fff3e71a1d61.gif"/>
+   <h2>
+      <strong>What is Software Development?</strong>
+    </h2>
+  <p>Software Development is defined as the process of designing, creating, testing, and maintaining computer programs and applications. 
+      Software development plays an important role in our daily lives. It empowers smartphone apps and supports businesses worldwide</p>
+  </div>
 </div>
+
+
+  
+
+
