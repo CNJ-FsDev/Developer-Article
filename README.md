@@ -4,7 +4,7 @@
     <p>Whilst developer documentation provides comprehensive software information,
       which is used to utilize an understanding of the product and also 'develop and interact' with the software.
       I thought it would be best to expand on how outside influences and current events impact todays Software Development.
-      With brief documentation expressing my knowledge/expertise in Software Developmen.</p>
+      With brief documentation expressing my knowledge/expertise in Software Development.</p>
     
   <img height=300 width=1000 src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif"/>
   </div>
