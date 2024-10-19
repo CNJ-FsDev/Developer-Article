@@ -1,10 +1,11 @@
 # 🔭 Developer-Documentation 🔭 
 <div>
   <div  align="center">
-    <p>Whilst developer documentation provides comprehensive software information,
-      which is used to utilize an understanding of the product and also 'develop and interact' with the software.
+    <p>Welcome to my Developer Article - providing comprehensive software information,
+      which is used to utilize an understanding of the product and also 'develop and interact' with the software, 
+      with its overall purpose of making evryday easier to manage.
       I thought it would be best to expand on how outside influences and current events impact todays Software Development.
-      With brief documentation expressing my knowledge/expertise in Software Development.</p>
+      With brief documentation expressing my knowledge/expertise in Software Development Industry.</p>
     
   <img height=300 width=1000 src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif"/>
   </div>
